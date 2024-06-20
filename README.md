@@ -17,4 +17,4 @@ This is a web-based application for managing notes virtually. Users can register
 - **Backend**: Java Servlets
 - **Frontend**: HTML, CSS, JavaScript
 - **Database**: MySQL
-- **Build Tool**: Maven or Gradle
+
